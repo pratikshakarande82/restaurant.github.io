@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.backg{
+    width: 100%;
+    height:100vh ;
+    background-image: url(bg3.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+.nevigation{
+width: 85%;
+margin: auto;
+padding: 35px 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.log{
+     
+     
+    width: 120px;
+    cursor: pointer;
+}
+.nevigation ul li{
+    list-style: armenian;
+    display: inline-block;
+    margin: 20px;
+}
+.nevigation ul li a{
+    text-decoration: underline;
+    text-decoration-color: darkorange;
+    color:azure;
+    text-transform: uppercase;
+}
+.co{
+margin: auto;
+width: 30%;
+padding: 10px;
+color:yellow;
+font-size: large;
+font-family:monospace;
+}
+.co1{
+    margin: auto;
+    width: 100%;
+    
+    color:red;
+    font-size:xx-large;
+    font-weight:bold;
+}   
+    
+
+
+.header
+{
+    background-position: center;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.search{
+    height: 30px;
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    outline: none;
+}
+.place{
+    width: 400px;
+}
+.resto{
+    width: 300px;
+}
+.search-btn{
+    height: 40px;
+    width: 95px;
+    background:yellow;
+    color: black;
+    border:none;
+    
+    border-radius: 25px;
+}
+.form-box{
+    background:none;
+}
+.search-btn:hover{
+    background:paleturquoise;
+    cursor: pointer;
+}
+.imgb{
+    width: 100%;
+    height:100vh ;
+    background-image: url(ab2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.ab {
+color:red;
+box-shadow: 0px;
+text-align: center;
+font-family: sans-serif;
+
+
+}
+.main{
+    color:black;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-size-adjust: 50px;
+}
+
+
+.abc{
+    width: 100%;
+    height:100vh ;
+    background-image: url(contact.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#ad{
+    text-decoration:underline;
+    text-underline-position: below;
+    text-align: center;
+    text-decoration-color: blue;
+
+}
+.book{
+   text-align: center;
+
+}
+.name{
+    text-align: center;
+}
+.email{
+    text-align: center;
+}
+.msg{
+    text-align:center ;
+}
+.box1{
+    height: 30px;
+    width: 400px;
+}
+.box2{
+height: 30px;
+width: 400px;
+}
+.box3{
+height: 200px;
+width: 400px;
+}
+.mb{
+    text-align: right;
+    color:purple;
+}
+.id{
+    text-align:right;
+    color:purple;
+}
+.bbtn{
+    
+        height: 40px;
+        width: 95px;
+        background:yellow;
+        
+        border:none;
+        
+        border-radius: 25px;
+    
+}
+.bbtn:hover{
+    background:blue;
+    cursor: pointer;
+}
+
+.def{
+    width: 100%;
+    height:100vh ;
+    background-image: url(men.webp);
+    background-size: cover;
+    background-position: center;
+}
+.class{
+    text-align: left;
+}
+.am{
+    text-align: center;
+    color: palevioletred;
+    text-decoration: solid;
+    text-decoration: dashed;
+
+}
+.meni{
+    text-align: center;
+    color: aqua;
+}
+.me{
+    color:red ;
+    text-align: center;
+}
